@@ -1,27 +1,21 @@
-# GOEN v2
+# GOEN
 
-GitHub Pagesにそのまま公開できる静的サイトです。
+> 人と人、人とビジネスを信頼のご縁でつなぐプラットフォーム。
 
-## 更新方法
-1. このZIPを解凍
-2. GitHubの `77toku/GOEN` リポジトリを開く
-3. 現在のファイルをバックアップ
-4. ZIP内のファイルをリポジトリ直下へアップロード
-5. Commit changes
-6. 数分後に `https://77toku.github.io/GOEN/` を再読み込み
+## Purpose
+GOENは、一人ひとりの悩みや実現したいことを整理し、信頼できる人・専門家・サービスとの出会いを支援します。
 
-## 主な対応
-- スマートフォン最適化
-- SEOメタ情報
-- OGP
-- Organization / WebSite / FAQPage 構造化データ
-- FAQ
-- robots.txt / sitemap.xml
-- llms.txt（AIクローラー向け概要）
-- 30秒ご縁診断
-- TimeRex・公式LINE導線
-- アクセシビリティと軽量表示
+## Key concepts
+- AIは目的ではなく、ご縁をつなぐための手段
+- 想いの整理
+- プロフィール、LP、ホームページによる魅力の可視化
+- 信頼できる専門家との接続
+- 紹介や相談につながる仕組みづくり
 
-## 注意
-`ogp.svg` は一部SNSで画像プレビューされない場合があります。
-正式運用時は1200×630pxのPNG/JPGに差し替えるのがおすすめです。
+## Founder
+小野 徳三
+
+## Contact
+- Website: https://77toku.github.io/GOEN/
+- Consultation: https://timerex.net/s/77.tokuzo_b2fd/01e7028c
+- Official LINE: https://page.line.me/416wulrh
