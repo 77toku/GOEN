@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://77toku.github.io/GOEN/sitemap.xml
